@@ -16,3 +16,7 @@ RStudio is great IDE for R and can be directly download from link [Download RStu
 [Resources to learn R](https://github.com/qinwf/awesome-R?utm_campaign=Data%2BElixir&utm_medium=web&utm_source=Data_Elixir_33#resources).
 
 If you do not know where to start [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html) is quite good.
+
+Relations between R, JUGS and Stan
+
+![alt tag](https://cloud.githubusercontent.com/assets/12628257/16594748/163a07e6-42ec-11e6-9b3e-5e4c64efa817.png)
