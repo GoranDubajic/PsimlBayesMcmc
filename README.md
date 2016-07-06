@@ -19,4 +19,4 @@ If you do not know where to start [An Introduction to R](https://cran.r-project.
 
 Relations between R, JUGS and Stan
 
-![alt tag](https://cloud.githubusercontent.com/assets/12628257/16594748/163a07e6-42ec-11e6-9b3e-5e4c64efa817.png)
+![alt tag](https://cloud.githubusercontent.com/assets/12628257/16615443/09e052bc-4377-11e6-8ac0-1b7538f757d9.png)
